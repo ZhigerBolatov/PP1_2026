@@ -20,9 +20,9 @@ No prior programming experience is required.
 
 Here are guides to help you work with the terminal and compile C++ code:
 
-- [VS Code](https://code.visualstudio.com/)  
 - [Terminal Basics Guide](<lab01/terminal basics.md>)  
 - [C++ Compilation Guide](<lab01/cpp compile guide.md>)
+- [VS Code](https://code.visualstudio.com/)  
 
 ---
 
