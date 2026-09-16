@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n, x, zeros = 0;
+    cin >> n;
+
+    for (int i = 0; i < n; i++) {
+        cin >> x;
+
+        while (x > 0) {
+            if (x % 10 == 0) {
+                zeros++;
+            }
+
+            x /= 10;
+        }
+    }
+
+    cout << zeros;
+
+    return 0;
+}
